@@ -1,84 +1,96 @@
-# Hi, I'm Ashraf
+# Ashraf
 
-Backend developer focused on Python and Django REST Framework.
+Backend Developer focused on Python and Django REST Framework.
 
-I enjoy building backend systems that include authentication, permissions, business logic, database relationships, and clean API structure. Recently, I’ve been working more on REST APIs, testing, documentation, and improving project architecture.
+I build backend systems using Django, with a focus on clean architecture, authentication, database design, and REST APIs.
+
+---
+
+## About Me
+
+- Backend Developer (Django / DRF)
+- REST API development
+- Docker & deployment experience (Render)
+- Authentication & permissions systems
+- Building production-ready backend applications
 
 ---
 
 ## Tech Stack
 
-* Python
-* Django
-* Django REST Framework
-* PostgreSQL
-* JWT Authentication
-* Git & GitHub
-* Swagger / drf-spectacular
-* Automated Testing
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- JWT Authentication
+- Docker
+- Git & GitHub
+- Swagger / drf-spectacular
+- Unit Testing
+
+---
+
+## Featured Project
+
+### E-commerce API (Production Ready)
+
+Full REST API for an e-commerce system with authentication, cart, checkout, and order management.
+
+Features:
+- JWT Authentication (login/register)
+- Product & Category management
+- Cart system (add / update / remove items)
+- Checkout with stock validation
+- Order workflow (PENDING → PAID → SHIPPED → DELIVERED)
+- PostgreSQL database
+- Docker deployment
+- Swagger documentation
+- Automated tests
+
+Live API: https://django-ecommerce-api-gugt.onrender.com  
+GitHub: https://github.com/ashraf171/django-ecommerce-api
 
 ---
 
 ## Projects
 
-### E-commerce API
-
-REST API for an e-commerce system with products, categories, cart management, checkout flow, stock handling, payment simulation, and order processing.
-
-Features include:
-
-* JWT authentication
-* Cart and checkout logic
-* Order status workflow
-* Swagger documentation
-* Filtering, search, and ordering
-* Automated tests
-
-Repository:
-
-* https://github.com/ashraf171/django-ecommerce-api
-
----
-
 ### Social Media API
+Backend API for a social platform with posts, comments, likes, and follow system.
 
-Backend API for a social media platform with authentication, posts, comments, likes, and follow functionality.
-
-Repository:
-
-* https://github.com/ashraf171/django-social-api
+GitHub: https://github.com/ashraf171/django-social-api
 
 ---
 
 ### Clinic Management System
+Backend system for managing patients, appointments, and medical workflows.
 
-Backend-focused clinic management project handling patients, appointments, and medical workflow logic.
-
-Repository:
-
-* https://github.com/ashraf171/clinic-management
+GitHub: https://github.com/ashraf171/clinic-management
 
 ---
 
 ### Restaurant Management System
+Team-based backend project for restaurant operations.
 
-Team project for managing restaurant operations and workflows. I contributed mainly to backend-related functionality and API implementation.
-
-Repository:
-
-* https://github.com/ashraf171/restaurant-management-system
+GitHub: https://github.com/ashraf171/restaurant-management-system
 
 ---
 
 ## Currently Learning
 
-* Deployment and production setup
-* Docker basics
-* Redis and caching
-* Background tasks with Celery
+- Production deployment practices
+- Docker deeper concepts
+- Redis caching
+- Background tasks (Celery)
+- CI/CD fundamentals
 
 ---
 
-## GitHub
+## Goal
 
-https://github.com/ashraf171
+To become a Backend Engineer focused on scalable and production-ready systems.
+
+---
+
+## Contact
+
+GitHub: https://github.com/ashraf171
