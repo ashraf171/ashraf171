@@ -1,96 +1,69 @@
 # Ashraf Almouaie
 
-Backend Developer focused on Python and Django REST Framework.
+Junior Backend Developer focused on building REST APIs with Python, Django, and Django REST Framework.
 
-I build backend systems using Django, with a focus on clean architecture, authentication, database design, and REST APIs.
-
----
-
-## About Me
-
-- Backend Developer (Django / DRF)
-- REST API development
-- Docker & deployment experience (Render)
-- Authentication & permissions systems
-- Building production-ready backend applications
+I build backend applications with authentication, permissions, relational database design, API documentation, and Docker-based development workflows.
 
 ---
 
 ## Tech Stack
 
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- JWT Authentication
-- Docker
-- Git & GitHub
-- Swagger / drf-spectacular
-- Unit Testing
+* Python
+* Django
+* Django REST Framework
+* PostgreSQL
+* SQLite
+* JWT Authentication
+* Docker
+* Git & GitHub
+* Swagger / drf-spectacular
+* Unit Testing
+* Render Deployment
 
 ---
 
-## Featured Project
+## Featured Projects
 
-### E-commerce API (Production Ready)
+### Django E-commerce API
 
-Full REST API for an e-commerce system with authentication, cart, checkout, and order management.
+REST API for an e-commerce workflow including authentication, products, categories, cart, checkout, stock validation, orders, payment simulation, Swagger documentation, Docker, PostgreSQL, and automated tests.
 
-Features:
-- JWT Authentication (login/register)
-- Product & Category management
-- Cart system (add / update / remove items)
-- Checkout with stock validation
-- Order workflow (PENDING → PAID → SHIPPED → DELIVERED)
-- PostgreSQL database
-- Docker deployment
-- Swagger documentation
-- Automated tests
+* GitHub: https://github.com/ashraf171/django-ecommerce-api
+* API Docs: https://django-ecommerce-api-gugt.onrender.com/api/docs/
 
-Live API: https://django-ecommerce-api-gugt.onrender.com  
-GitHub: https://github.com/ashraf171/django-ecommerce-api
+### Django Social Media API
 
----
+REST API for a social media platform with JWT authentication, posts, comments, likes, follow system, user profiles, and personalized feed.
 
-## Projects
-
-### Social Media API
-Backend API for a social platform with posts, comments, likes, and follow system.
-
-GitHub: https://github.com/ashraf171/django-social-api
-
----
-
-### Clinic Management System
-Backend system for managing patients, appointments, and medical workflows.
-
-GitHub: https://github.com/ashraf171/clinic-management
-
----
+* GitHub: https://github.com/ashraf171/django-social-api
 
 ### Restaurant Management System
-Team-based backend project for restaurant operations.
 
-GitHub: https://github.com/ashraf171/restaurant-management-system
+Team-based Django REST Framework project for managing users, roles, customers, menu items, and orders with role-based permissions and JWT authentication.
 
----
+* GitHub: https://github.com/ashraf171/restaurant-management-system
 
-## Currently Learning
+### Clinic Management API
 
-- Production deployment practices
-- Docker deeper concepts
-- Redis caching
-- Background tasks (Celery)
-- CI/CD fundamentals
+Django REST Framework API for managing patients, doctors, appointments, and prescriptions with appointment validation rules.
+
+* GitHub: https://github.com/ashraf171/clinic-management
 
 ---
 
-## Goal
+## Currently Improving
 
-To become a Backend Engineer focused on scalable and production-ready systems.
+* Production deployment practices
+* Docker and Docker Compose
+* API testing
+* PostgreSQL
+* Redis and Celery basics
+* CI/CD fundamentals
 
 ---
 
 ## Contact
 
-GitHub: https://github.com/ashraf171
+- Email: [ashrafalmouie@gmail.com](mailto:ashrafalmouie@gmail.com)
+- LinkedIn: [linkedin.com/in/ashraf-almouaie](https://www.linkedin.com/in/ashraf-almouaie-77b3823bb/)
+- GitHub: [github.com/ashraf171](https://github.com/ashraf171)
